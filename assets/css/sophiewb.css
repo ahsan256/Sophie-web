@@ -1,0 +1,254 @@
+
+body {
+    margin: 5%;
+    padding: 0%;
+    flex-wrap: wrap;
+}
+
+#navbar {
+    padding-top: 20px;
+    height: 60px;
+    background-color: rgb(254, 232, 199);
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu a {
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+/* .cart i{
+
+} */
+
+.headdown {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(254, 232, 199);
+    
+}
+
+.text-1 h4,h3{
+    
+    margin: 0%;
+}
+.text-1 h1{
+margin-top: 0%;
+}
+.text-1 p{
+margin-bottom: 0%;
+}
+
+.image-1 img {
+    width: 500px;
+   image-resolution: 1000x;
+     filter: saturate(112%) sepia(5%) drop-shadow(3px 29px 13px rgba(0, 0, 0, 1));
+
+}
+/* ---------------------------------------- */
+.cards {
+    display: flex;
+    width: 1400px;
+    margin: auto;
+    margin-top: 5%;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+  
+}
+.txt{
+    margin-top: 5%;
+    text-align: center;
+}
+.box{
+    width: 250px;
+    background-color: aquamarine;
+    
+    /* overflow: scroll; */
+    height: 230px;
+
+   
+}
+.box2 b{
+    
+    width: 50px;
+    background-color: rgb(0, 90, 78);
+    text-align: center;
+    top: 7%;
+    font-weight: 600;
+    position: relative;
+    padding: 1% 5%;
+
+    
+}
+b:hover{
+background-color: rgb(0, 135, 254);
+}
+a{
+    text-decoration: none;
+}
+
+b{
+    
+    color: rgb(253, 253, 253);
+    font-size: 14px;
+}
+p{
+    /* position: absolute; */
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 2px;
+font-size: 13px;
+font-family: sans-serif;
+   
+}
+img{
+    width: 170px;
+    margin-top: 0%;
+    margin-left: 16%;
+    margin-bottom: 7%;
+    
+}
+.btn h5{
+text-align: center;
+margin-top: 0px;
+color: rgb(117, 117, 117);
+}
+
+
+/* ------------------------------------- */
+.section-2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.img-2 img .pra1 p{
+    width: 445px;
+}
+
+.box1 {
+    background-color: rgb(149, 195, 208);
+    border: 1px solid black;
+    width: 45%;
+    height: 250px;
+
+}
+
+
+.box2 {
+    background-color: rgb(178, 162, 114);
+    border: 1px solid black;
+    width: 45%;
+    height: 250px;
+}
+/* ---------------------------------- */
+.cards-2 {
+    display: flex;
+    width: 1170px;
+    margin: auto;
+    margin-top: 5%;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.bx2 img {
+    width: 100px;
+    height: 100px;
+}
+
+.bx2 {
+    flex-basis: 15%;
+    text-align: center;
+    width: 5%;
+    display: inline-block;
+}
+/* ----------------------------------------- */
+
+.section-3 {
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 5%;
+}
+
+.box-1 {
+    background-color: rgb(211, 255, 252);
+    border: 1px solid black;
+    width: 70%;
+    height: 250px;
+}
+
+.box-2 {
+    background-color: rgb(46, 46, 46);
+    border: 1px solid black;
+    width: 20%;
+    height: 250px;
+}
+/* ---------------------------------------------- */
+
+.partion {
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 5%;
+}
+
+.col-1 {
+    background-color: rgb(149, 195, 208);
+    border: 1px solid black;
+    width: 20%;
+    height: 250px;
+}
+
+.col-2 {
+    background-color: rgb(178, 162, 114);
+    border: 1px solid black;
+    width: 20%;
+    height: 250px;
+}
+.col-3 {
+    background-color: rgb(178, 162, 114);
+    border: 1px solid black;
+    width: 20%;
+    height: 250px;
+}
+
+.ftlg img{
+    width: 100px;
+    align-content: center;
+    justify-content: space-evenly;
+}
+/* .box img{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+   
+}
+.box h6{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.box {
+    flex-basis: 17%;
+    text-align: center;
+    width: 20%;
+    display: inline-block;
+    
+} */
+
+/* button{
+       background-color: blue;
+       padding: 10px 10px;
+      border: none;
+       text-decoration-color: aliceblue;
+     
+  }
+button:hover{
+  background-color: chartreuse;
+ 
+
+} */
